@@ -1,0 +1,18 @@
+Modified GNU General Public License (MGPL)
+
+Version 3, 29 June 2007
+
+This license allows you to use, modify, and distribute this software and its source code, subject to the conditions and limitations below:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. If you modify this software, you must include a prominent notice in each modified file stating that you have modified the file.
+
+4. If you distribute any portion of this software in source code or binary form, you must give appropriate credit, provide a link to the original source code repository, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+5. This software is provided "as is," without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+Except as contained in this notice, the name(s) of the copyright holders shall not be used in advertising or otherwise to promote the sale, use, or other dealings in this software without prior written authorization.
+
